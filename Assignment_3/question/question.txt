@@ -1,0 +1,8 @@
+Experiment 3
+
+3. (a) Implement basic gray level transformation for the following:
+    i) Linear
+    ii) Negative
+    iii) Logarithmic
+    iv) Power-law
+3(b) To write a program for histogram calculation and histogram equalization
