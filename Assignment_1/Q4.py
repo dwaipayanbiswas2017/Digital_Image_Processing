@@ -2,7 +2,7 @@
 import cv2
 import numpy as np
 
-img=cv2.imread("TestRGB2.jpeg",cv2.IMREAD_COLOR)
+img=cv2.imread("resources/TestRGB.jpeg",cv2.IMREAD_COLOR)
 
 b,g,r=cv2.split(img)
 zeroes=np.zeros(b.shape,np.uint8)

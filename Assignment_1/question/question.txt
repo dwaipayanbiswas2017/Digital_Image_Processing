@@ -1,0 +1,13 @@
+All the programs must be performed using Python.
+Experiment 1
+----------------------------------------------------------------------------------------------------------
+
+Write the following program using Python.
+a.    Become familiar with Python Basic commands and libraries
+b.	Read and display image
+c.	Resize given image
+d.	Convert given color image into gray-scale image
+e.	Convert given color/gray-scale image into black & white image
+f.	Draw image profile
+g.	Separate color image in three R G & B planes
+h.	Create color image using R, G and B three separate planes

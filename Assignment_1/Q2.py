@@ -1,7 +1,7 @@
 # Resize given image
 import cv2
 
-img=cv2.imread("TestRGB2.jpeg", cv2.IMREAD_COLOR)
+img=cv2.imread("resources/TestRGB.jpeg", cv2.IMREAD_COLOR)
 cv2.imshow("Original",img)
 
 resize=cv2.resize(img,(250,250))

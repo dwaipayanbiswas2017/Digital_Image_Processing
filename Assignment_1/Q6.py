@@ -2,7 +2,7 @@
 # planesCreate color image using R, G and B three separate planes
 import cv2 as cv
 
-img = cv.imread("TestRGB.jpeg")
+img = cv.imread("resources/TestRGB.jpeg")
 b,g,r = cv.split(img)
 
 merge1 = cv.merge((b,g,r))

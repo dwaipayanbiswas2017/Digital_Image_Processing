@@ -1,0 +1,13 @@
+Experiment 2
+
+2. To write and execute programs for image arithmetic operations
+
+a. Addition of two images
+b. Subtract one image from other image
+c. Calculate mean value of image
+d. Different Brightness by changing mean value
+e. AND operation between two images
+f. OR operation between two images
+g. Calculate intersection of two images
+h. Water Marking using EX-OR operation
+i. NOT operation (Negative image)
