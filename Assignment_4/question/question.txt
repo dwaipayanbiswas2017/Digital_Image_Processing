@@ -1,0 +1,8 @@
+Experiment 4
+
+4. To write and execute program for geometric transformation of image.
+    a. Translation
+    b. Scaling
+    c. Rotation
+    d. Shrinking
+    e. Zooming
