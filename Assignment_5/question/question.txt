@@ -1,0 +1,10 @@
+Experiment-5
+
+A. Implement various image noise models and to write programs for image restoration
+a. Remove Salt and Pepper Noise
+b. Minimize Gaussian noise
+c. Median filter and Weiner filter
+
+B. Write and execute programs to remove noise using spatial filters
+a. Implement 2-D convolution process on an image of your choice.
+b. Use 3×3 Mask for low pass filter and high pass filter.
