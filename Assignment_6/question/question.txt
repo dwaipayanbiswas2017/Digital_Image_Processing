@@ -1,0 +1,11 @@
+Experiment-6
+
+A. Write and execute programs for frequency domain filtering.
+a. Apply FFT on a given image of your choice.
+b. Perform low pass and high pass filtering in frequency domain.
+c. Apply IFFT to reconstruct the image.
+
+B. Apply wavelet transform on a given image.
+a. Apply wavelet transform at different level of decomposition.
+b. Reconstruct image by applying inverse wavelet transform.
+c. Show that wavelet transform can be used to remove noise.
