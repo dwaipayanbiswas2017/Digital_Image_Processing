@@ -1,0 +1,24 @@
+#!/usr/bin/env python3
+#!/usr/bin/python
+#!/usr/bin/python3
+
+import os
+
+packages = ['opencv-python', 'numpy', 'Pillow', 'matplotlib', 'scipy', 'scikit-image', 'PyWavelets']
+
+def upgrade_pip():
+	print("Upgrading pip...")
+	upgrade_pip = "pip3 install --upgrade pip"
+	os.system(upgrade_pip)
+
+def install_pkgs():
+	print("Installing required packages...")
+	pip_install = "pip3 install "
+	for pkg in packages:
+		print("Installing..."+pkg)
+		os.system(pip_install+pkg)
+		print("..... DONE .....")
+
+if __name__ == "__main__":
+	upgrade_pip()
+	install_pkgs()
